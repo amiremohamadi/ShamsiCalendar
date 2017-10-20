@@ -12,4 +12,4 @@ use ./shamsi.sh -n to show calendar in number mode
 Reporting Bugs
 --------------
 
-Please report all bugs to https://github.com/amiremohamadi/NUMLY
+Please report all bugs to https://github.com/amiremohamadi/jalali-shamsi-calendar

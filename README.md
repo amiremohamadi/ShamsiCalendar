@@ -7,6 +7,7 @@ How to use
 -----------------------------------
 
 use ./shamsi.sh to show calendar in normal mode
+
 use ./shamsi.sh -n to show calendar in number mode
 
 Reporting Bugs

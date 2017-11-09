@@ -3,8 +3,8 @@
 #made by amir mohammadi :)
 
 #variables for date:
-day=`date +%d`
-month=`date +%m`
+day=`date +%_d`
+month=`date +%_m`
 year=`date +%Y`
 #KABISE YA NA
 kabise=$[(year-1)%4]

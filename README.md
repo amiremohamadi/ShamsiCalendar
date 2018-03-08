@@ -1,16 +1,14 @@
-# jalali-shamsi-calendar
+# ShamsiCalendar
 
 A simple shamsi calendar for linux
------------------------------------
 
-How to use
------------------------------------
 
-use ./shamsi.sh to show calendar in normal mode
+ ## How to use
 
-use ./shamsi.sh -n to show calendar in number mode
+ > use ./shamsi.sh to show calendar in normal mode
 
-Reporting Bugs
---------------
+ > use ./shamsi.sh -n to show calendar in number mode
 
-Please report all bugs to https://github.com/amiremohamadi/jalali-shamsi-calendar
+ ## Reporting Bugs
+
+ Please report all bugs to https://github.com/amiremohamadi/jalali-shamsi-calendar
